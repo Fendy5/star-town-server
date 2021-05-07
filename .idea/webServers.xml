@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b87b5c13-c413-4200-acc6-f68845be8a7b" name="Server" url="http://startown.fendy5.cn">
+        <fileTransfer rootFolder="/www/wwwroot/star_town-server.com" accessType="SFTP" host="159.75.20.52" port="22" sshConfigId="d4ee770d-e16b-4df4-afab-4ef4c8ee01b1" sshConfig="GuangZhou">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
